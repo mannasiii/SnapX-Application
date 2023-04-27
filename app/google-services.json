@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71213095021",
+    "project_id": "photoshop-e690f",
+    "storage_bucket": "photoshop-e690f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71213095021:android:68dfadcc48e79afbc98764",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71213095021-a4vja2v4ekkvggtldddi1d4773cqebul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxWtDzAkbljYHeKMXmmEqbWjXVvC95-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71213095021-a4vja2v4ekkvggtldddi1d4773cqebul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
